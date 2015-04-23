@@ -1,0 +1,1385 @@
+-------------------------
+24-Mar-2015 20:28:41
+cars1 1
+recall 0.974 precision 0.759 FMeasure 0.853
+cars1 2
+recall 0.934 precision 0.884 FMeasure 0.908
+cars1 3
+recall 0.964 precision 0.849 FMeasure 0.902
+cars1 4
+recall 0.930 precision 0.955 FMeasure 0.942
+cars1 5
+recall 0.779 precision 0.926 FMeasure 0.846
+cars1 6
+recall 0.988 precision 0.871 FMeasure 0.926
+cars1 7
+recall 0.977 precision 0.704 FMeasure 0.818
+cars1 8
+recall 0.948 precision 0.797 FMeasure 0.866
+people 1
+recall 0.893 precision 0.914 FMeasure 0.904
+people 2
+recall 0.981 precision 0.935 FMeasure 0.958
+average 
+recall 0.927 precision 0.857 FMeasure 0.891
+-------------------------
+24-Mar-2015 20:38:43
+cars1 1
+recall 0.974 precision 0.757 FMeasure 0.852
+cars1 2
+recall 0.930 precision 0.880 FMeasure 0.904
+cars1 3
+recall 0.967 precision 0.854 FMeasure 0.907
+cars1 4
+recall 0.853 precision 0.941 FMeasure 0.895
+cars1 5
+recall 0.777 precision 0.925 FMeasure 0.845
+cars1 6
+recall 0.989 precision 0.862 FMeasure 0.921
+cars1 7
+recall 0.974 precision 0.703 FMeasure 0.817
+cars1 8
+recall 0.940 precision 0.799 FMeasure 0.864
+people 1
+recall 0.895 precision 0.917 FMeasure 0.906
+people 2
+recall 0.981 precision 0.936 FMeasure 0.958
+average 
+recall 0.910 precision 0.853 FMeasure 0.881
+-------------------------
+24-Mar-2015 21:02:01
+cars1 1
+recall 0.974 precision 0.760 FMeasure 0.854
+cars1 2
+recall 0.934 precision 0.883 FMeasure 0.908
+cars1 3
+recall 0.967 precision 0.847 FMeasure 0.903
+cars1 4
+recall 0.930 precision 0.953 FMeasure 0.941
+cars1 5
+recall 0.779 precision 0.924 FMeasure 0.846
+cars1 6
+recall 0.987 precision 0.867 FMeasure 0.923
+cars1 7
+recall 0.981 precision 0.718 FMeasure 0.829
+cars1 8
+recall 0.964 precision 0.792 FMeasure 0.870
+people 1
+recall 0.891 precision 0.914 FMeasure 0.902
+people 2
+recall 0.986 precision 0.935 FMeasure 0.960
+average 
+recall 0.930 precision 0.856 FMeasure 0.892
+-------------------------
+25-Mar-2015 08:53:58
+cars1 1
+recall 0.974 precision 0.763 FMeasure 0.856
+cars1 2
+recall 0.932 precision 0.886 FMeasure 0.908
+cars1 3
+recall 0.958 precision 0.840 FMeasure 0.895
+cars1 4
+recall 0.873 precision 0.952 FMeasure 0.911
+cars1 5
+recall 0.765 precision 0.925 FMeasure 0.838
+cars1 6
+recall 0.987 precision 0.873 FMeasure 0.926
+cars1 7
+recall 0.979 precision 0.714 FMeasure 0.826
+cars1 8
+recall 0.959 precision 0.796 FMeasure 0.870
+people 1
+recall 0.897 precision 0.916 FMeasure 0.907
+people 2
+recall 0.982 precision 0.936 FMeasure 0.958
+average 
+recall 0.915 precision 0.856 FMeasure 0.885
+-------------------------
+25-Mar-2015 08:56:50
+cars1 1
+recall 0.974 precision 0.763 FMeasure 0.856
+cars1 2
+recall 0.932 precision 0.886 FMeasure 0.908
+cars1 3
+recall 0.958 precision 0.840 FMeasure 0.895
+cars1 4
+recall 0.852 precision 0.950 FMeasure 0.898
+cars1 5
+recall 0.765 precision 0.925 FMeasure 0.838
+cars1 6
+recall 0.987 precision 0.873 FMeasure 0.926
+cars1 7
+recall 0.979 precision 0.714 FMeasure 0.826
+cars1 8
+recall 0.959 precision 0.796 FMeasure 0.870
+people 1
+recall 0.897 precision 0.916 FMeasure 0.907
+people 2
+recall 0.982 precision 0.936 FMeasure 0.958
+average 
+recall 0.911 precision 0.856 FMeasure 0.883
+-------------------------
+25-Mar-2015 09:15:00
+cars1 1
+recall 0.985 precision 0.773 FMeasure 0.866
+cars1 2
+recall 0.937 precision 0.877 FMeasure 0.906
+cars1 3
+recall 0.965 precision 0.856 FMeasure 0.907
+cars1 4
+recall 0.873 precision 0.941 FMeasure 0.906
+cars1 5
+recall 0.737 precision 0.914 FMeasure 0.816
+cars1 6
+recall 0.994 precision 0.835 FMeasure 0.908
+cars1 7
+recall 0.982 precision 0.715 FMeasure 0.828
+cars1 8
+recall 0.976 precision 0.776 FMeasure 0.865
+people 1
+recall 0.880 precision 0.909 FMeasure 0.894
+people 2
+recall 0.984 precision 0.934 FMeasure 0.958
+average 
+recall 0.917 precision 0.848 FMeasure 0.881
+-------------------------
+25-Mar-2015 10:39:33
+7.5fps, 原始的ASAP Warping
+cars1 1
+recall 0.974 precision 0.758 FMeasure 0.853
+cars1 2
+recall 0.934 precision 0.884 FMeasure 0.909
+cars1 3
+recall 0.967 precision 0.836 FMeasure 0.896
+cars1 4
+recall 0.935 precision 0.952 FMeasure 0.944
+cars1 5
+recall 0.905 precision 0.931 FMeasure 0.918
+cars1 6
+recall 0.988 precision 0.856 FMeasure 0.917
+cars1 7
+recall 0.983 precision 0.749 FMeasure 0.850
+cars1 8
+recall 0.962 precision 0.789 FMeasure 0.867
+people 1
+recall 0.886 precision 0.916 FMeasure 0.900
+people 2
+recall 0.982 precision 0.937 FMeasure 0.959
+average 
+recall 0.948 precision 0.858 FMeasure 0.901
+-------------------------
+25-Mar-2015 11:13:22
+11fps blockbased warping
+cars1 1
+recall 0.983 precision 0.740 FMeasure 0.845
+cars1 2
+recall 0.946 precision 0.866 FMeasure 0.904
+cars1 3
+recall 0.971 precision 0.824 FMeasure 0.892
+cars1 4
+recall 0.833 precision 0.939 FMeasure 0.883
+cars1 5
+recall 0.909 precision 0.926 FMeasure 0.917
+cars1 6
+recall 0.990 precision 0.852 FMeasure 0.916
+cars1 7
+recall 0.983 precision 0.797 FMeasure 0.880
+cars1 8
+recall 0.985 precision 0.714 FMeasure 0.828
+people 1
+recall 0.885 precision 0.916 FMeasure 0.900
+people 2
+recall 0.986 precision 0.921 FMeasure 0.952
+average 
+recall 0.936 precision 0.830 FMeasure 0.880
+-------------------------
+25-Mar-2015 14:58:26
+histogram refine
+cars1 1
+recall 0.976 precision 0.717 FMeasure 0.826
+cars1 2
+recall 0.781 precision 0.839 FMeasure 0.809
+cars1 3
+recall 0.972 precision 0.523 FMeasure 0.680
+cars1 4
+recall 0.812 precision 0.850 FMeasure 0.831
+cars1 5
+recall 0.776 precision 0.924 FMeasure 0.844
+cars1 6
+recall 0.990 precision 0.868 FMeasure 0.925
+cars1 7
+recall 0.981 precision 0.765 FMeasure 0.860
+cars1 8
+recall 0.988 precision 0.792 FMeasure 0.879
+people 1
+recall 0.889 precision 0.916 FMeasure 0.903
+people 2
+recall 0.982 precision 0.902 FMeasure 0.940
+average 
+recall 0.896 precision 0.798 FMeasure 0.844
+
+-------------------------
+ransac 0.1 + findhomographyDLT global homography
+26-Mar-2015 22:39:59
+cars1 1
+recall 0.974 precision 0.768 FMeasure 0.859
+cars1 2
+recall 0.936 precision 0.882 FMeasure 0.908
+cars1 3
+recall 0.963 precision 0.835 FMeasure 0.894
+cars1 4
+recall 0.915 precision 0.957 FMeasure 0.936
+cars1 5
+recall 0.913 precision 0.929 FMeasure 0.921
+cars1 6
+recall 0.989 precision 0.869 FMeasure 0.925
+cars1 7
+recall 0.984 precision 0.864 FMeasure 0.920
+cars1 8
+recall 0.944 precision 0.797 FMeasure 0.864
+people 1
+recall 0.885 precision 0.914 FMeasure 0.899
+people 2
+recall 0.981 precision 0.935 FMeasure 0.957
+average 
+recall 0.942 precision 0.867 FMeasure 0.903
+-------------------------
+relflow 1.2 + findhomographyDLT global homography
+26-Mar-2015 22:42:43
+cars1 1
+recall 0.981 precision 0.760 FMeasure 0.856
+cars1 2
+recall 0.934 precision 0.889 FMeasure 0.911
+cars1 3
+recall 0.962 precision 0.822 FMeasure 0.887
+cars1 4
+recall 0.911 precision 0.955 FMeasure 0.933
+cars1 5
+recall 0.779 precision 0.927 FMeasure 0.847
+cars1 6
+recall 0.988 precision 0.870 FMeasure 0.925
+cars1 7
+recall 0.979 precision 0.825 FMeasure 0.895
+cars1 8
+recall 0.952 precision 0.792 FMeasure 0.865
+people 1
+recall 0.894 precision 0.915 FMeasure 0.905
+people 2
+recall 0.979 precision 0.938 FMeasure 0.958
+average 
+recall 0.925 precision 0.861 FMeasure 0.892
+
+
+-------------------------
+27-Mar-2015 09:50:39
+histogram refine(5,5) + global warping
+cars1 1
+recall 0.973 precision 0.693 FMeasure 0.810
+cars1 2
+recall 0.894 precision 0.881 FMeasure 0.888
+cars1 3
+recall 0.952 precision 0.840 FMeasure 0.893
+cars1 4
+recall 0.910 precision 0.895 FMeasure 0.902
+cars1 5
+recall 0.873 precision 0.907 FMeasure 0.889
+cars1 6
+recall 0.991 precision 0.867 FMeasure 0.925
+cars1 7
+recall 0.975 precision 0.783 FMeasure 0.868
+cars1 8
+recall 0.967 precision 0.754 FMeasure 0.847
+people 1
+recall 0.895 precision 0.517 FMeasure 0.655
+people 2
+recall 0.987 precision 0.917 FMeasure 0.951
+average 
+recall 0.936 precision 0.806 FMeasure 0.866
+
+-------------------------
+histogram refine(5,5) + my asapwarping
+27-Mar-2015 10:27:24
+cars1 1
+recall 0.974 precision 0.725 FMeasure 0.832
+cars1 2
+recall 0.920 precision 0.879 FMeasure 0.899
+cars1 3
+recall 0.968 precision 0.835 FMeasure 0.896
+cars1 4
+recall 0.842 precision 0.946 FMeasure 0.891
+cars1 5
+recall 0.769 precision 0.924 FMeasure 0.839
+cars1 6
+recall 0.991 precision 0.855 FMeasure 0.918
+cars1 7
+recall 0.976 precision 0.851 FMeasure 0.909
+cars1 8
+recall 0.959 precision 0.758 FMeasure 0.847
+people 1
+recall 0.882 precision 0.921 FMeasure 0.901
+people 2
+recall 0.984 precision 0.902 FMeasure 0.941
+average 
+recall 0.909 precision 0.842 FMeasure 0.874
+-------------------------
+histogram refine(5,5) + blockwarping
+27-Mar-2015 10:31:33
+cars1 1
+recall 0.972 precision 0.726 FMeasure 0.832
+cars1 2
+recall 0.728 precision 0.690 FMeasure 0.708
+cars1 3
+recall 0.965 precision 0.816 FMeasure 0.884
+cars1 4
+recall 0.700 precision 0.928 FMeasure 0.798
+cars1 5
+recall 0.672 precision 0.868 FMeasure 0.758
+cars1 6
+recall 0.991 precision 0.858 FMeasure 0.919
+cars1 7
+recall 0.981 precision 0.689 FMeasure 0.810
+cars1 8
+recall 0.979 precision 0.712 FMeasure 0.825
+people 1
+recall 0.899 precision 0.917 FMeasure 0.908
+people 2
+recall 0.979 precision 0.889 FMeasure 0.932
+average 
+recall 0.852 precision 0.790 FMeasure 0.820
+-------------------------
+ransac 0.1 + blockwarping
+27-Mar-2015 10:34:41
+cars1 1
+recall 0.983 precision 0.716 FMeasure 0.829
+cars1 2
+recall 0.950 precision 0.861 FMeasure 0.903
+cars1 3
+recall 0.963 precision 0.826 FMeasure 0.889
+cars1 4
+recall 0.941 precision 0.947 FMeasure 0.944
+cars1 5
+recall 0.772 precision 0.918 FMeasure 0.839
+cars1 6
+recall 0.992 precision 0.853 FMeasure 0.917
+cars1 7
+recall 0.981 precision 0.758 FMeasure 0.855
+cars1 8
+recall 0.988 precision 0.708 FMeasure 0.825
+people 1
+recall 0.882 precision 0.912 FMeasure 0.897
+people 2
+recall 0.986 precision 0.938 FMeasure 0.961
+average 
+recall 0.939 precision 0.824 FMeasure 0.878
+-------------------------
+relflow 1.2 + blockwarping
+27-Mar-2015 10:39:27
+cars1 1
+recall 0.973 precision 0.729 FMeasure 0.833
+cars1 2
+recall 0.928 precision 0.830 FMeasure 0.877
+cars1 3
+recall 0.964 precision 0.836 FMeasure 0.895
+cars1 4
+recall 0.803 precision 0.915 FMeasure 0.855
+cars1 5
+recall 0.744 precision 0.924 FMeasure 0.824
+cars1 6
+recall 0.991 precision 0.851 FMeasure 0.916
+cars1 7
+recall 0.981 precision 0.826 FMeasure 0.897
+cars1 8
+recall 0.987 precision 0.745 FMeasure 0.849
+people 1
+recall 0.879 precision 0.922 FMeasure 0.900
+people 2
+recall 0.984 precision 0.920 FMeasure 0.951
+average 
+recall 0.903 precision 0.829 FMeasure 0.864
+-------------------------
+relflow 1.0 + blockwarping
+27-Mar-2015 11:53:31
+cars 1
+recall 0.972 precision 0.730 FMeasure 0.834
+cars 2
+recall 0.945 precision 0.829 FMeasure 0.883
+cars 3
+recall 0.966 precision 0.835 FMeasure 0.896
+cars 4
+recall 0.800 precision 0.909 FMeasure 0.851
+cars 5
+recall 0.822 precision 0.926 FMeasure 0.871
+cars 6
+recall 0.991 precision 0.853 FMeasure 0.917
+cars 7
+recall 0.981 precision 0.851 FMeasure 0.911
+cars 8
+recall 0.979 precision 0.745 FMeasure 0.846
+people 1
+recall 0.881 precision 0.922 FMeasure 0.901
+people 2
+recall 0.985 precision 0.936 FMeasure 0.960
+average 
+recall 0.914 precision 0.831 FMeasure 0.871
+
+-------------------------
+relflow 0.5 + block warping
+27-Mar-2015 14:15:34
+cars 1
+recall 0.970 precision 0.724 FMeasure 0.829
+cars 2
+recall 0.925 precision 0.818 FMeasure 0.868
+cars 3
+recall 0.968 precision 0.839 FMeasure 0.899
+cars 4
+recall 0.799 precision 0.911 FMeasure 0.852
+cars 5
+recall 0.824 precision 0.925 FMeasure 0.872
+cars 6
+recall 0.991 precision 0.854 FMeasure 0.917
+cars 7
+recall 0.982 precision 0.844 FMeasure 0.908
+cars 8
+recall 0.987 precision 0.741 FMeasure 0.846
+people 1
+recall 0.881 precision 0.919 FMeasure 0.899
+people 2
+recall 0.986 precision 0.934 FMeasure 0.959
+average 
+recall 0.914 precision 0.828 FMeasure 0.869
+-------------------------
+30-Mar-2015 09:57:05
+cars 1
+recall 0.976 precision 0.733 FMeasure 0.837
+cars 2
+recall 0.794 precision 0.870 FMeasure 0.831
+cars 3
+recall 0.968 precision 0.833 FMeasure 0.895
+cars 4
+recall 0.923 precision 0.871 FMeasure 0.896
+cars 5
+recall 0.769 precision 0.925 FMeasure 0.840
+cars 6
+recall 0.991 precision 0.858 FMeasure 0.920
+cars 7
+recall 0.979 precision 0.855 FMeasure 0.912
+cars 8
+recall 0.977 precision 0.791 FMeasure 0.874
+people 1
+recall 0.884 precision 0.913 FMeasure 0.898
+people 2
+recall 0.986 precision 0.909 FMeasure 0.946
+average 
+recall 0.916 precision 0.839 FMeasure 0.876
+-------------------------
+histogram(5,5)+my asap warping, 之前的代码里面直方图中角度id计算时是theta而不是theta-thetaMin
+30-Mar-2015 14:17:49
+cars 1
+recall 0.976 precision 0.748 FMeasure 0.847
+cars 2
+recall 0.791 precision 0.872 FMeasure 0.829
+cars 3
+recall 0.969 precision 0.834 FMeasure 0.896
+cars 4
+recall 0.847 precision 0.863 FMeasure 0.855
+cars 5
+recall 0.794 precision 0.926 FMeasure 0.855
+cars 6
+recall 0.991 precision 0.855 FMeasure 0.918
+cars 7
+recall 0.981 precision 0.853 FMeasure 0.912
+cars 8
+recall 0.979 precision 0.794 FMeasure 0.877
+people 1
+recall 0.888 precision 0.914 FMeasure 0.900
+people 2
+recall 0.987 precision 0.915 FMeasure 0.950
+average 
+recall 0.905 precision 0.841 FMeasure 0.872
+-------------------------
+histogram(5,5)+ Global DLT homography
+30-Mar-2015 14:31:03
+cars 1
+recall 0.973 precision 0.725 FMeasure 0.831
+cars 2
+recall 0.882 precision 0.883 FMeasure 0.883
+cars 3
+recall 0.964 precision 0.843 FMeasure 0.899
+cars 4
+recall 0.918 precision 0.827 FMeasure 0.870
+cars 5
+recall 0.870 precision 0.931 FMeasure 0.900
+cars 6
+recall 0.990 precision 0.868 FMeasure 0.925
+cars 7
+recall 0.971 precision 0.842 FMeasure 0.902
+cars 8
+recall 0.952 precision 0.787 FMeasure 0.862
+people 1
+recall 0.892 precision 0.919 FMeasure 0.905
+people 2
+recall 0.986 precision 0.920 FMeasure 0.952
+average 
+recall 0.933 precision 0.833 FMeasure 0.880
+-------------------------
+30-Mar-2015 14:33:29
+histogram(5,5) + blockWarping
+cars 1
+recall 0.974 precision 0.737 FMeasure 0.839
+cars 2
+recall 0.806 precision 0.699 FMeasure 0.749
+cars 3
+recall 0.963 precision 0.817 FMeasure 0.884
+cars 4
+recall 0.821 precision 0.939 FMeasure 0.876
+cars 5
+recall 0.757 precision 0.891 FMeasure 0.819
+cars 6
+recall 0.990 precision 0.863 FMeasure 0.922
+cars 7
+recall 0.985 precision 0.689 FMeasure 0.811
+cars 8
+recall 0.978 precision 0.744 FMeasure 0.845
+people 1
+recall 0.885 precision 0.918 FMeasure 0.901
+people 2
+recall 0.991 precision 0.897 FMeasure 0.942
+average 
+recall 0.896 precision 0.808 FMeasure 0.850
+-------------------------
+Ransac1.0 + BlockWarping
+30-Mar-2015 14:38:19
+cars 1
+recall 0.985 precision 0.716 FMeasure 0.829
+cars 2
+recall 0.950 precision 0.858 FMeasure 0.901
+cars 3
+recall 0.962 precision 0.834 FMeasure 0.893
+cars 4
+recall 0.938 precision 0.949 FMeasure 0.943
+cars 5
+recall 0.789 precision 0.924 FMeasure 0.851
+cars 6
+recall 0.991 precision 0.848 FMeasure 0.914
+cars 7
+recall 0.985 precision 0.765 FMeasure 0.861
+cars 8
+recall 0.987 precision 0.709 FMeasure 0.825
+people 1
+recall 0.898 precision 0.915 FMeasure 0.906
+people 2
+recall 0.986 precision 0.921 FMeasure 0.952
+average 
+recall 0.941 precision 0.824 FMeasure 0.879
+-------------------------
+30-Mar-2015 14:43:39
+Ransac0.1 + mywarping
+cars 1
+recall 0.974 precision 0.748 FMeasure 0.846
+cars 2
+recall 0.936 precision 0.885 FMeasure 0.910
+cars 3
+recall 0.965 precision 0.829 FMeasure 0.892
+cars 4
+recall 0.873 precision 0.954 FMeasure 0.911
+cars 5
+recall 0.877 precision 0.932 FMeasure 0.904
+cars 6
+recall 0.980 precision 0.871 FMeasure 0.922
+cars 7
+recall 0.982 precision 0.611 FMeasure 0.754
+cars 8
+recall 0.967 precision 0.756 FMeasure 0.849
+people 1
+recall 0.889 precision 0.914 FMeasure 0.901
+people 2
+recall 0.987 precision 0.940 FMeasure 0.963
+average 
+recall 0.933 precision 0.839 FMeasure 0.884
+
+-------------------------
+Ransac0.1 + DLT Globalwarping(CPU KLT)
+30-Mar-2015 14:59:59
+cars 1
+recall 0.965 precision 0.761 FMeasure 0.851
+cars 2
+recall 0.934 precision 0.882 FMeasure 0.908
+cars 3
+recall 0.966 precision 0.833 FMeasure 0.894
+cars 4
+recall 0.927 precision 0.952 FMeasure 0.939
+cars 5
+recall 0.790 precision 0.929 FMeasure 0.854
+cars 6
+recall 0.987 precision 0.873 FMeasure 0.927
+cars 7
+recall 0.982 precision 0.705 FMeasure 0.821
+cars 8
+recall 0.972 precision 0.777 FMeasure 0.864
+people 1
+recall 0.888 precision 0.915 FMeasure 0.901
+people 2
+recall 0.985 precision 0.940 FMeasure 0.962
+average 
+recall 0.931 precision 0.852 FMeasure 0.890
+-------------------------
+30-Mar-2015 15:23:44
+RelFlow1.0 + GlobalWarping
+cars 1
+recall 0.974 precision 0.752 FMeasure 0.849
+cars 2
+recall 0.933 precision 0.886 FMeasure 0.909
+cars 3
+recall 0.966 precision 0.826 FMeasure 0.891
+cars 4
+recall 0.918 precision 0.953 FMeasure 0.935
+cars 5
+recall 0.903 precision 0.932 FMeasure 0.917
+cars 6
+recall 0.987 precision 0.867 FMeasure 0.923
+cars 7
+recall 0.973 precision 0.862 FMeasure 0.914
+cars 8
+recall 0.969 precision 0.779 FMeasure 0.863
+people 1
+recall 0.893 precision 0.918 FMeasure 0.905
+people 2
+recall 0.988 precision 0.938 FMeasure 0.962
+average 
+recall 0.946 precision 0.860 FMeasure 0.901
+-------------------------
+RelFlow1.0 + BlockWarping
+30-Mar-2015 15:29:04
+cars 1
+recall 0.968 precision 0.730 FMeasure 0.832
+cars 2
+recall 0.943 precision 0.799 FMeasure 0.865
+cars 3
+recall 0.964 precision 0.838 FMeasure 0.896
+cars 4
+recall 0.804 precision 0.913 FMeasure 0.855
+cars 5
+recall 0.826 precision 0.925 FMeasure 0.872
+cars 6
+recall 0.990 precision 0.861 FMeasure 0.921
+cars 7
+recall 0.981 precision 0.853 FMeasure 0.913
+cars 8
+recall 0.987 precision 0.742 FMeasure 0.847
+people 1
+recall 0.886 precision 0.920 FMeasure 0.903
+people 2
+recall 0.986 precision 0.933 FMeasure 0.959
+average 
+recall 0.916 precision 0.828 FMeasure 0.870
+-------------------------
+30-Mar-2015 22:25:51
+cars 1
+recall 0.974 precision 0.673 FMeasure 0.796
+cars 2
+recall 0.933 precision 0.887 FMeasure 0.909
+cars 3
+recall 0.969 precision 0.842 FMeasure 0.901
+cars 4
+recall 0.860 precision 0.952 FMeasure 0.904
+cars 5
+recall 0.905 precision 0.931 FMeasure 0.918
+cars 6
+recall 0.987 precision 0.869 FMeasure 0.924
+cars 7
+recall 0.982 precision 0.633 FMeasure 0.770
+cars 8
+recall 0.970 precision 0.793 FMeasure 0.873
+people 1
+recall 0.885 precision 0.913 FMeasure 0.899
+people 2
+recall 0.986 precision 0.939 FMeasure 0.962
+average 
+recall 0.935 precision 0.835 FMeasure 0.882
+
+-------------------------
+histogramO 5 blockwarping
+01-Apr-2015 20:08:59
+cars 1
+recall 0.970 precision 0.706 FMeasure 0.817
+cars 2
+recall 0.128 precision 0.309 FMeasure 0.181
+cars 3
+recall 0.617 precision 0.733 FMeasure 0.670
+cars 4
+recall 0.596 precision 0.829 FMeasure 0.693
+cars 5
+recall 0.512 precision 0.535 FMeasure 0.523
+cars 6
+recall 0.992 precision 0.841 FMeasure 0.910
+cars 7
+recall 0.986 precision 0.675 FMeasure 0.802
+cars 8
+recall 0.994 precision 0.724 FMeasure 0.838
+people 1
+recall 0.876 precision 0.868 FMeasure 0.872
+people 2
+recall 0.981 precision 0.800 FMeasure 0.881
+average 
+recall 0.733 precision 0.710 FMeasure 0.721
+-------------------------
+histogramO 5 globalwarping
+01-Apr-2015 20:12:35
+cars 1
+recall 0.991 precision 0.448 FMeasure 0.617
+cars 2
+recall 0.927 precision 0.351 FMeasure 0.509
+cars 3
+recall 0.991 precision 0.145 FMeasure 0.253
+cars 4
+recall 0.848 precision 0.197 FMeasure 0.320
+cars 5
+recall 0.781 precision 0.463 FMeasure 0.581
+cars 6
+recall 0.993 precision 0.819 FMeasure 0.898
+cars 7
+recall 0.982 precision 0.843 FMeasure 0.907
+cars 8
+recall 0.993 precision 0.667 FMeasure 0.798
+people 1
+recall 0.905 precision 0.642 FMeasure 0.751
+people 2
+recall 0.993 precision 0.625 FMeasure 0.767
+average 
+recall 0.924 precision 0.364 FMeasure 0.522
+-------------------------
+histogram 5,5 + globalwarping
+01-Apr-2015 20:19:43
+cars 1
+recall 0.979 precision 0.732 FMeasure 0.837
+cars 2
+recall 0.923 precision 0.882 FMeasure 0.902
+cars 3
+recall 0.968 precision 0.849 FMeasure 0.904
+cars 4
+recall 0.869 precision 0.804 FMeasure 0.835
+cars 5
+recall 0.779 precision 0.912 FMeasure 0.840
+cars 6
+recall 0.993 precision 0.837 FMeasure 0.909
+cars 7
+recall 0.981 precision 0.850 FMeasure 0.911
+cars 8
+recall 0.978 precision 0.770 FMeasure 0.861
+people 1
+recall 0.877 precision 0.910 FMeasure 0.893
+people 2
+recall 0.986 precision 0.930 FMeasure 0.957
+average 
+recall 0.920 precision 0.822 FMeasure 0.868
+
+-------------------------
+histogramO 10 globalwarping
+01-Apr-2015 20:40:41
+cars 1
+recall 0.977 precision 0.539 FMeasure 0.694
+cars 2
+recall 0.938 precision 0.550 FMeasure 0.694
+cars 3
+recall 0.983 precision 0.221 FMeasure 0.361
+cars 4
+recall 0.849 precision 0.209 FMeasure 0.336
+cars 5
+recall 0.767 precision 0.646 FMeasure 0.701
+cars 6
+recall 0.994 precision 0.799 FMeasure 0.886
+cars 7
+recall 0.982 precision 0.398 FMeasure 0.566
+cars 8
+recall 0.993 precision 0.735 FMeasure 0.845
+people 1
+recall 0.887 precision 0.673 FMeasure 0.765
+people 2
+recall 0.991 precision 0.748 FMeasure 0.852
+average 
+recall 0.920 precision 0.427 FMeasure 0.583
+-------------------------
+02-Apr-2015 14:20:09
+cars 1
+recall 0.977 precision 0.626 FMeasure 0.763
+cars 2
+recall 0.947 precision 0.686 FMeasure 0.795
+cars 3
+recall 0.976 precision 0.262 FMeasure 0.414
+cars 4
+recall 0.873 precision 0.247 FMeasure 0.385
+cars 5
+recall 0.727 precision 0.717 FMeasure 0.722
+cars 6
+recall 0.990 precision 0.772 FMeasure 0.867
+cars 7
+recall 0.977 precision 0.353 FMeasure 0.518
+cars 8
+recall 0.963 precision 0.774 FMeasure 0.858
+people 1
+recall 0.906 precision 0.738 FMeasure 0.813
+people 2
+recall 0.991 precision 0.852 FMeasure 0.916
+average 
+recall 0.915 precision 0.480 FMeasure 0.630
+-------------------------
+nblockwarping + ransac
+02-Apr-2015 22:54:27
+cars 1
+recall 0.984 precision 0.746 FMeasure 0.848
+cars 2
+recall 0.937 precision 0.881 FMeasure 0.908
+cars 3
+recall 0.968 precision 0.832 FMeasure 0.895
+cars 4
+recall 0.931 precision 0.951 FMeasure 0.941
+cars 5
+recall 0.906 precision 0.931 FMeasure 0.918
+cars 6
+recall 0.987 precision 0.867 FMeasure 0.923
+cars 7
+recall 0.975 precision 0.597 FMeasure 0.740
+cars 8
+recall 0.981 precision 0.791 FMeasure 0.876
+people 1
+recall 0.889 precision 0.916 FMeasure 0.902
+people 2
+recall 0.986 precision 0.939 FMeasure 0.962
+average 
+recall 0.953 precision 0.846 FMeasure 0.896
+-------------------------
+nblockwarping + relflow1.0
+03-Apr-2015 08:00:46
+cars 1
+recall 0.989 precision 0.721 FMeasure 0.834
+cars 2
+recall 0.786 precision 0.870 FMeasure 0.826
+cars 3
+recall 0.971 precision 0.828 FMeasure 0.894
+cars 4
+recall 0.825 precision 0.949 FMeasure 0.883
+cars 5
+recall 0.729 precision 0.928 FMeasure 0.816
+cars 6
+recall 0.978 precision 0.865 FMeasure 0.918
+cars 7
+recall 0.973 precision 0.599 FMeasure 0.741
+cars 8
+recall 0.972 precision 0.739 FMeasure 0.840
+people 1
+recall 0.891 precision 0.913 FMeasure 0.902
+people 2
+recall 0.987 precision 0.933 FMeasure 0.959
+average 
+recall 0.891 precision 0.822 FMeasure 0.855
+-------------------------
+nblockwarping + relflow0.5
+03-Apr-2015 08:08:55
+cars 1
+recall 0.990 precision 0.724 FMeasure 0.837
+cars 2
+recall 0.795 precision 0.871 FMeasure 0.832
+cars 3
+recall 0.971 precision 0.821 FMeasure 0.889
+cars 4
+recall 0.827 precision 0.950 FMeasure 0.885
+cars 5
+recall 0.733 precision 0.927 FMeasure 0.819
+cars 6
+recall 0.990 precision 0.869 FMeasure 0.925
+cars 7
+recall 0.973 precision 0.595 FMeasure 0.739
+cars 8
+recall 0.965 precision 0.730 FMeasure 0.831
+people 1
+recall 0.885 precision 0.912 FMeasure 0.899
+people 2
+recall 0.987 precision 0.934 FMeasure 0.960
+average 
+recall 0.892 precision 0.820 FMeasure 0.855
+-------------------------
+03-Apr-2015 08:12:43
+cars 1
+recall 0.985 precision 0.737 FMeasure 0.843
+cars 2
+recall 0.796 precision 0.872 FMeasure 0.832
+cars 3
+recall 0.965 precision 0.837 FMeasure 0.896
+cars 4
+recall 0.929 precision 0.946 FMeasure 0.938
+cars 5
+recall 0.744 precision 0.926 FMeasure 0.825
+cars 6
+recall 0.987 precision 0.868 FMeasure 0.924
+cars 7
+recall 0.973 precision 0.397 FMeasure 0.564
+cars 8
+recall 0.985 precision 0.789 FMeasure 0.876
+people 1
+recall 0.891 precision 0.917 FMeasure 0.903
+people 2
+recall 0.988 precision 0.938 FMeasure 0.962
+average 
+recall 0.917 precision 0.816 FMeasure 0.864
+-------------------------
+ransac0.1 + global warping findhomographyDLT
+03-Apr-2015 10:33:04
+cars 1
+recall 0.970 precision 0.737 FMeasure 0.837
+cars 2
+recall 0.936 precision 0.887 FMeasure 0.911
+cars 3
+recall 0.957 precision 0.833 FMeasure 0.890
+cars 4
+recall 0.931 precision 0.951 FMeasure 0.941
+cars 5
+recall 0.741 precision 0.926 FMeasure 0.823
+cars 6
+recall 0.987 precision 0.866 FMeasure 0.923
+cars 7
+recall 0.981 precision 0.600 FMeasure 0.745
+cars 8
+recall 0.971 precision 0.774 FMeasure 0.862
+people 1
+recall 0.886 precision 0.914 FMeasure 0.900
+people 2
+recall 0.984 precision 0.938 FMeasure 0.960
+average 
+recall 0.925 precision 0.839 FMeasure 0.880
+-------------------------
+03-Apr-2015 11:05:53
+relflow 1.0 +myasapwarping
+cars 1
+recall 0.975 precision 0.702 FMeasure 0.816
+cars 2
+recall 0.932 precision 0.886 FMeasure 0.908
+cars 3
+recall 0.964 precision 0.842 FMeasure 0.899
+cars 4
+recall 0.837 precision 0.950 FMeasure 0.890
+cars 5
+recall 0.788 precision 0.928 FMeasure 0.853
+cars 6
+recall 0.988 precision 0.869 FMeasure 0.925
+cars 7
+recall 0.975 precision 0.819 FMeasure 0.890
+cars 8
+recall 0.962 precision 0.791 FMeasure 0.868
+people 1
+recall 0.886 precision 0.915 FMeasure 0.900
+people 2
+recall 0.985 precision 0.937 FMeasure 0.961
+average 
+recall 0.912 precision 0.849 FMeasure 0.879
+-------------------------
+cpu klt
+relflow 自适应参数+ myasapwarping
+03-Apr-2015 11:15:33
+cars 1
+recall 0.975 precision 0.726 FMeasure 0.832
+cars 2
+recall 0.933 precision 0.886 FMeasure 0.909
+cars 3
+recall 0.969 precision 0.839 FMeasure 0.899
+cars 4
+recall 0.912 precision 0.952 FMeasure 0.932
+cars 5
+recall 0.739 precision 0.928 FMeasure 0.823
+cars 6
+recall 0.988 precision 0.866 FMeasure 0.923
+cars 7
+recall 0.975 precision 0.585 FMeasure 0.732
+cars 8
+recall 0.974 precision 0.785 FMeasure 0.869
+people 1
+recall 0.887 precision 0.917 FMeasure 0.902
+people 2
+recall 0.987 precision 0.941 FMeasure 0.963
+average 
+recall 0.923 precision 0.839 FMeasure 0.879
+-------------------------
+cpu klt
+adaptive relflow 
+blockwarping 8
+fps:7
+03-Apr-2015 11:58:47
+cars 1
+recall 0.969 precision 0.717 FMeasure 0.824
+cars 2
+recall 0.944 precision 0.830 FMeasure 0.883
+cars 3
+recall 0.965 precision 0.834 FMeasure 0.895
+cars 4
+recall 0.795 precision 0.911 FMeasure 0.849
+cars 5
+recall 0.820 precision 0.927 FMeasure 0.870
+cars 6
+recall 0.990 precision 0.859 FMeasure 0.920
+cars 7
+recall 0.981 precision 0.833 FMeasure 0.901
+cars 8
+recall 0.987 precision 0.746 FMeasure 0.850
+people 1
+recall 0.885 precision 0.922 FMeasure 0.903
+people 2
+recall 0.982 precision 0.933 FMeasure 0.957
+average 
+recall 0.914 precision 0.829 FMeasure 0.869
+-------------------------
+cpu klt
+adaptive relflow 
+nblockwarping 8
+fps:7
+
+03-Apr-2015 12:02:37
+cars 1
+recall 0.990 precision 0.723 FMeasure 0.836
+cars 2
+recall 0.790 precision 0.861 FMeasure 0.824
+cars 3
+recall 0.970 precision 0.825 FMeasure 0.892
+cars 4
+recall 0.828 precision 0.950 FMeasure 0.885
+cars 5
+recall 0.727 precision 0.928 FMeasure 0.815
+cars 6
+recall 0.988 precision 0.863 FMeasure 0.921
+cars 7
+recall 0.974 precision 0.596 FMeasure 0.740
+cars 8
+recall 0.969 precision 0.733 FMeasure 0.834
+people 1
+recall 0.890 precision 0.916 FMeasure 0.903
+people 2
+recall 0.986 precision 0.924 FMeasure 0.954
+average 
+recall 0.892 precision 0.819 FMeasure 0.854
+-------------------------
+cpu klt
+relflow 1.0
+nblockwarping 8
+fps:7
+03-Apr-2015 14:00:24
+cars 1
+recall 0.981 precision 0.756 FMeasure 0.854
+cars 2
+recall 0.914 precision 0.877 FMeasure 0.895
+cars 3
+recall 0.968 precision 0.821 FMeasure 0.889
+cars 4
+recall 0.792 precision 0.940 FMeasure 0.860
+cars 5
+recall 0.695 precision 0.926 FMeasure 0.794
+cars 6
+recall 0.989 precision 0.865 FMeasure 0.923
+cars 7
+recall 0.980 precision 0.632 FMeasure 0.768
+cars 8
+recall 0.987 precision 0.798 FMeasure 0.883
+people 1
+recall 0.886 precision 0.915 FMeasure 0.901
+people 2
+recall 0.988 precision 0.939 FMeasure 0.963
+average 
+recall 0.895 precision 0.844 FMeasure 0.868
+-------------------------
+cpu klt
+relflow 1.0
+blockwarping 8
+
+03-Apr-2015 14:04:55
+cars 1
+recall 0.979 precision 0.709 FMeasure 0.822
+cars 2
+recall 0.910 precision 0.749 FMeasure 0.822
+cars 3
+recall 0.962 precision 0.815 FMeasure 0.883
+cars 4
+recall 0.738 precision 0.931 FMeasure 0.823
+cars 5
+recall 0.856 precision 0.901 FMeasure 0.878
+cars 6
+recall 0.991 precision 0.859 FMeasure 0.920
+cars 7
+recall 0.980 precision 0.599 FMeasure 0.743
+cars 8
+recall 0.989 precision 0.721 FMeasure 0.834
+people 1
+recall 0.886 precision 0.920 FMeasure 0.903
+people 2
+recall 0.985 precision 0.923 FMeasure 0.953
+average 
+recall 0.906 precision 0.797 FMeasure 0.848
+-------------------------
+cpu klt
+homography 3.0 adaptive relflow 
+blockwarping 8
+fps:7
+03-Apr-2015 14:08:52
+cars 1
+recall 0.974 precision 0.724 FMeasure 0.830
+cars 2
+recall 0.941 precision 0.755 FMeasure 0.838
+cars 3
+recall 0.971 precision 0.832 FMeasure 0.896
+cars 4
+recall 0.817 precision 0.894 FMeasure 0.854
+cars 5
+recall 0.786 precision 0.923 FMeasure 0.849
+cars 6
+recall 0.991 precision 0.852 FMeasure 0.916
+cars 7
+recall 0.982 precision 0.434 FMeasure 0.602
+cars 8
+recall 0.987 precision 0.755 FMeasure 0.855
+people 1
+recall 0.894 precision 0.923 FMeasure 0.908
+people 2
+recall 0.986 precision 0.939 FMeasure 0.962
+average 
+recall 0.915 precision 0.791 FMeasure 0.849
+-------------------------
+cpu klt
+homography 3.0 adaptive relflow 
+nblockwarping 8
+fps:7
+03-Apr-2015 14:12:07
+cars 1
+recall 0.985 precision 0.736 FMeasure 0.842
+cars 2
+recall 0.797 precision 0.871 FMeasure 0.833
+cars 3
+recall 0.964 precision 0.833 FMeasure 0.894
+cars 4
+recall 0.926 precision 0.947 FMeasure 0.936
+cars 5
+recall 0.745 precision 0.927 FMeasure 0.826
+cars 6
+recall 0.990 precision 0.863 FMeasure 0.922
+cars 7
+recall 0.972 precision 0.399 FMeasure 0.566
+cars 8
+recall 0.985 precision 0.788 FMeasure 0.876
+people 1
+recall 0.885 precision 0.916 FMeasure 0.900
+people 2
+recall 0.988 precision 0.933 FMeasure 0.960
+average 
+recall 0.916 precision 0.816 FMeasure 0.863
+
+-------------------------
+03-Apr-2015 14:32:48
+cars 1
+recall 0.974 precision 0.704 FMeasure 0.817
+cars 2
+recall 0.947 precision 0.755 FMeasure 0.840
+cars 3
+recall 0.967 precision 0.835 FMeasure 0.896
+cars 4
+recall 0.812 precision 0.899 FMeasure 0.853
+cars 5
+recall 0.791 precision 0.925 FMeasure 0.853
+cars 6
+recall 0.990 precision 0.852 FMeasure 0.915
+cars 7
+recall 0.981 precision 0.435 FMeasure 0.603
+cars 8
+recall 0.986 precision 0.719 FMeasure 0.832
+people 1
+recall 0.886 precision 0.920 FMeasure 0.903
+people 2
+recall 0.987 precision 0.937 FMeasure 0.961
+
+
+-------------------------
+03-Apr-2015 14:41:04
+cars 1
+recall 0.974 precision 0.704 FMeasure 0.817
+cars 2
+recall 0.947 precision 0.755 FMeasure 0.840
+cars 3
+recall 0.967 precision 0.835 FMeasure 0.896
+cars 4
+recall 0.812 precision 0.899 FMeasure 0.853
+cars 5
+recall 0.791 precision 0.925 FMeasure 0.853
+cars 6
+recall 0.990 precision 0.852 FMeasure 0.915
+cars 7
+recall 0.981 precision 0.435 FMeasure 0.603
+cars 8
+recall 0.986 precision 0.719 FMeasure 0.832
+people 1
+recall 0.886 precision 0.920 FMeasure 0.903
+people 2
+recall 0.987 precision 0.937 FMeasure 0.961
+average moseg 
+recall 0.914 precision 0.781 FMeasure 0.842
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.857 precision 0.794 FMeasure 0.824
+-------------------------
+//修改imagewarping 接口，具体实现没有改
+//my asapwarping RANSAC 0.1 refine
+14-Apr-2015 21:06:29
+cars 1
+recall 0.982 precision 0.732 FMeasure 0.839
+cars 2
+recall 0.935 precision 0.880 FMeasure 0.907
+cars 3
+recall 0.968 precision 0.829 FMeasure 0.893
+cars 4
+recall 0.870 precision 0.940 FMeasure 0.904
+cars 5
+recall 0.739 precision 0.913 FMeasure 0.817
+cars 6
+recall 0.993 precision 0.842 FMeasure 0.911
+cars 7
+recall 0.981 precision 0.557 FMeasure 0.710
+cars 8
+recall 0.975 precision 0.756 FMeasure 0.852
+people 1
+recall 0.879 precision 0.908 FMeasure 0.893
+people 2
+recall 0.987 precision 0.911 FMeasure 0.947
+average moseg 
+recall 0.916 precision 0.823 FMeasure 0.867
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.859 precision 0.833 FMeasure 0.846
+-------------------------
+//修改imagewarping 接口，具体实现没有改
+//asapwarping RANSAC 0.1 refine
+14-Apr-2015 21:16:06
+cars 1
+recall 0.983 precision 0.743 FMeasure 0.847
+cars 2
+recall 0.929 precision 0.878 FMeasure 0.903
+cars 3
+recall 0.969 precision 0.853 FMeasure 0.908
+cars 4
+recall 0.890 precision 0.940 FMeasure 0.914
+cars 5
+recall 0.738 precision 0.915 FMeasure 0.817
+cars 6
+recall 0.994 precision 0.844 FMeasure 0.913
+cars 7
+recall 0.982 precision 0.622 FMeasure 0.761
+cars 8
+recall 0.995 precision 0.775 FMeasure 0.871
+people 1
+recall 0.878 precision 0.907 FMeasure 0.892
+people 2
+recall 0.987 precision 0.911 FMeasure 0.947
+average moseg 
+recall 0.924 precision 0.836 FMeasure 0.878
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.865 precision 0.845 FMeasure 0.855
+-------------------------
+//修改imagewarping 接口，具体实现没有改
+//globalwarping RANSAC 0.1 refine
+14-Apr-2015 21:19:14
+cars 1
+recall 0.979 precision 0.777 FMeasure 0.867
+cars 2
+recall 0.934 precision 0.878 FMeasure 0.905
+cars 3
+recall 0.961 precision 0.851 FMeasure 0.902
+cars 4
+recall 0.861 precision 0.939 FMeasure 0.898
+cars 5
+recall 0.778 precision 0.916 FMeasure 0.841
+cars 6
+recall 0.993 precision 0.841 FMeasure 0.911
+cars 7
+recall 0.984 precision 0.637 FMeasure 0.773
+cars 8
+recall 0.995 precision 0.777 FMeasure 0.873
+people 1
+recall 0.876 precision 0.907 FMeasure 0.891
+people 2
+recall 0.987 precision 0.912 FMeasure 0.948
+average moseg 
+recall 0.923 precision 0.843 FMeasure 0.881
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.864 precision 0.851 FMeasure 0.858
+-------------------------
+//修改imagewarping 接口，具体实现没有改
+//global RANSAC 0.1 refine
+//gpu klt
+14-Apr-2015 21:23:06
+cars 1
+recall 0.979 precision 0.780 FMeasure 0.868
+cars 2
+recall 0.932 precision 0.881 FMeasure 0.906
+cars 3
+recall 0.958 precision 0.857 FMeasure 0.904
+cars 4
+recall 0.864 precision 0.942 FMeasure 0.901
+cars 5
+recall 0.865 precision 0.918 FMeasure 0.891
+cars 6
+recall 0.993 precision 0.839 FMeasure 0.910
+cars 7
+recall 0.984 precision 0.862 FMeasure 0.919
+cars 8
+recall 0.979 precision 0.797 FMeasure 0.879
+people 1
+recall 0.880 precision 0.908 FMeasure 0.894
+people 2
+recall 0.985 precision 0.911 FMeasure 0.946
+average moseg 
+recall 0.932 precision 0.862 FMeasure 0.896
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.872 precision 0.868 FMeasure 0.870
+-------------------------
+//修改imagewarping 接口，具体实现没有改
+//asapwarping RANSAC 0.1 refine
+//gpu klt
+14-Apr-2015 21:30:11
+cars 1
+recall 0.985 precision 0.754 FMeasure 0.854
+cars 2
+recall 0.933 precision 0.882 FMeasure 0.907
+cars 3
+recall 0.967 precision 0.841 FMeasure 0.900
+cars 4
+recall 0.871 precision 0.938 FMeasure 0.903
+cars 5
+recall 0.770 precision 0.917 FMeasure 0.837
+cars 6
+recall 0.994 precision 0.837 FMeasure 0.908
+cars 7
+recall 0.981 precision 0.679 FMeasure 0.803
+cars 8
+recall 0.978 precision 0.762 FMeasure 0.857
+people 1
+recall 0.879 precision 0.909 FMeasure 0.893
+people 2
+recall 0.986 precision 0.913 FMeasure 0.948
+average moseg 
+recall 0.922 precision 0.838 FMeasure 0.878
+vperson
+recall 0.500 precision 0.928 FMeasure 0.650
+vcar
+recall 0.879 precision 0.936 FMeasure 0.906
+average 
+recall 0.863 precision 0.847 FMeasure 0.855

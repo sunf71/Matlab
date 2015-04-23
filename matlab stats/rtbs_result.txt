@@ -1,0 +1,955 @@
+18-Mar-2015 20:36:59cars1 1
+recall 0.989 precision 0.562 FMeasure 0.717
+cars1 2
+recall 0.930 precision 0.506 FMeasure 0.656
+cars1 3
+recall 0.924 precision 0.565 FMeasure 0.701
+cars1 4
+recall 0.853 precision 0.378 FMeasure 0.524
+cars1 5
+recall 0.883 precision 0.479 FMeasure 0.621
+cars1 6
+recall 0.861 precision 0.376 FMeasure 0.523
+cars1 7
+recall 0.975 precision 0.376 FMeasure 0.543
+cars1 8
+recall 0.987 precision 0.579 FMeasure 0.730
+people 1
+recall 0.889 precision 0.369 FMeasure 0.522
+people 2
+recall 0.912 precision 0.657 FMeasure 0.764
+average 
+recall 0.923 precision 0.484 FMeasure 0.635
+-------------------------
+18-Mar-2015 20:41:22
+lab 直方图 12*12*12，hog 36, 1.0
+cars1 1
+recall 0.989 precision 0.562 FMeasure 0.717
+cars1 2
+recall 0.930 precision 0.506 FMeasure 0.656
+cars1 3
+recall 0.924 precision 0.565 FMeasure 0.701
+cars1 4
+recall 0.853 precision 0.378 FMeasure 0.524
+cars1 5
+recall 0.883 precision 0.479 FMeasure 0.621
+cars1 6
+recall 0.861 precision 0.376 FMeasure 0.523
+cars1 7
+recall 0.975 precision 0.376 FMeasure 0.543
+cars1 8
+recall 0.987 precision 0.579 FMeasure 0.730
+people 1
+recall 0.889 precision 0.369 FMeasure 0.522
+people 2
+recall 0.912 precision 0.657 FMeasure 0.764
+average 
+recall 0.923 precision 0.484 FMeasure 0.635
+
+-------------------------
+RGB  直方图
+18-Mar-2015 21:11:45
+cars1 1
+recall 0.990 precision 0.539 FMeasure 0.698
+cars1 2
+recall 0.906 precision 0.507 FMeasure 0.650
+cars1 3
+recall 0.919 precision 0.564 FMeasure 0.699
+cars1 4
+recall 0.903 precision 0.378 FMeasure 0.533
+cars1 5
+recall 0.883 precision 0.488 FMeasure 0.629
+cars1 6
+recall 0.874 precision 0.436 FMeasure 0.582
+cars1 7
+recall 0.967 precision 0.383 FMeasure 0.549
+cars1 8
+recall 0.986 precision 0.570 FMeasure 0.722
+people 1
+recall 0.911 precision 0.325 FMeasure 0.479
+people 2
+recall 0.910 precision 0.649 FMeasure 0.758
+average 
+recall 0.930 precision 0.483 FMeasure 0.635
+-------------------------
+mthreshold = 2.0
+19-Mar-2015 10:53:49
+cars1 1
+recall 0.986 precision 0.590 FMeasure 0.738
+cars1 2
+recall 0.802 precision 0.609 FMeasure 0.693
+cars1 3
+recall 0.886 precision 0.654 FMeasure 0.752
+cars1 4
+recall 0.729 precision 0.499 FMeasure 0.592
+cars1 5
+recall 0.757 precision 0.583 FMeasure 0.659
+cars1 6
+recall 0.856 precision 0.512 FMeasure 0.641
+cars1 7
+recall 0.967 precision 0.511 FMeasure 0.668
+cars1 8
+recall 0.981 precision 0.656 FMeasure 0.786
+people 1
+recall 0.872 precision 0.437 FMeasure 0.582
+people 2
+recall 0.909 precision 0.658 FMeasure 0.764
+average 
+recall 0.864 precision 0.583 FMeasure 0.696
+-------------------------
+//基于区域的分割
+19-Mar-2015 22:06:31
+cars1 1
+recall 0.982 precision 0.781 FMeasure 0.870
+cars1 2
+recall 0.600 precision 0.604 FMeasure 0.602
+cars1 3
+recall 0.760 precision 0.668 FMeasure 0.711
+cars1 4
+recall 0.632 precision 0.612 FMeasure 0.622
+cars1 5
+recall 0.608 precision 0.594 FMeasure 0.601
+cars1 6
+recall 0.311 precision 0.515 FMeasure 0.388
+cars1 7
+recall 0.868 precision 0.589 FMeasure 0.702
+cars1 8
+recall 0.975 precision 0.696 FMeasure 0.812
+people 1
+recall 0.851 precision 0.459 FMeasure 0.596
+people 2
+recall 0.860 precision 0.687 FMeasure 0.764
+average 
+recall 0.753 precision 0.646 FMeasure 0.695
+-------------------------
+1.0，修改klt,用一次跟踪替换以前的两次跟踪
+19-Mar-2015 22:45:52
+cars1 1
+recall 0.990 precision 0.619 FMeasure 0.762
+cars1 2
+recall 0.864 precision 0.466 FMeasure 0.605
+cars1 3
+recall 0.888 precision 0.565 FMeasure 0.690
+cars1 4
+recall 0.809 precision 0.387 FMeasure 0.523
+cars1 5
+recall 0.866 precision 0.460 FMeasure 0.601
+cars1 6
+recall 0.795 precision 0.368 FMeasure 0.503
+cars1 7
+recall 0.946 precision 0.365 FMeasure 0.526
+cars1 8
+recall 0.986 precision 0.584 FMeasure 0.733
+people 1
+recall 0.901 precision 0.370 FMeasure 0.524
+people 2
+recall 0.899 precision 0.662 FMeasure 0.762
+average 
+recall 0.898 precision 0.485 FMeasure 0.630
+-------------------------
+19-Mar-2015 22:50:00
+cars1 1
+recall 0.988 precision 0.635 FMeasure 0.773
+cars1 2
+recall 0.724 precision 0.540 FMeasure 0.619
+cars1 3
+recall 0.873 precision 0.615 FMeasure 0.722
+cars1 4
+recall 0.723 precision 0.493 FMeasure 0.586
+cars1 5
+recall 0.722 precision 0.522 FMeasure 0.606
+cars1 6
+recall 0.892 precision 0.424 FMeasure 0.575
+cars1 7
+recall 0.932 precision 0.471 FMeasure 0.626
+cars1 8
+recall 0.984 precision 0.622 FMeasure 0.763
+people 1
+recall 0.872 precision 0.394 FMeasure 0.543
+people 2
+recall 0.880 precision 0.684 FMeasure 0.769
+average 
+recall 0.848 precision 0.552 FMeasure 0.669
+
+-------------------------
+20-Mar-2015 09:41:49
+cars1 1
+recall 0.988 precision 0.633 FMeasure 0.772
+cars1 2
+recall 0.804 precision 0.623 FMeasure 0.702
+cars1 3
+recall 0.899 precision 0.649 FMeasure 0.754
+cars1 4
+recall 0.774 precision 0.507 FMeasure 0.613
+cars1 5
+recall 0.755 precision 0.587 FMeasure 0.661
+cars1 6
+recall 0.891 precision 0.501 FMeasure 0.641
+cars1 7
+recall 0.964 precision 0.495 FMeasure 0.654
+cars1 8
+recall 0.984 precision 0.651 FMeasure 0.783
+people 1
+recall 0.868 precision 0.461 FMeasure 0.602
+people 2
+recall 0.895 precision 0.667 FMeasure 0.764
+average 
+recall 0.874 precision 0.588 FMeasure 0.703
+-------------------------
+增加滤波
+20-Mar-2015 10:44:51
+cars1 1
+recall 0.986 precision 0.677 FMeasure 0.803
+cars1 2
+recall 0.733 precision 0.692 FMeasure 0.712
+cars1 3
+recall 0.880 precision 0.703 FMeasure 0.782
+cars1 4
+recall 0.703 precision 0.687 FMeasure 0.695
+cars1 5
+recall 0.727 precision 0.669 FMeasure 0.696
+cars1 6
+recall 0.889 precision 0.577 FMeasure 0.700
+cars1 7
+recall 0.961 precision 0.659 FMeasure 0.782
+cars1 8
+recall 0.982 precision 0.666 FMeasure 0.794
+people 1
+recall 0.860 precision 0.472 FMeasure 0.609
+people 2
+recall 0.885 precision 0.702 FMeasure 0.783
+average 
+recall 0.847 precision 0.665 FMeasure 0.745
+-------------------------
+20-Mar-2015 15:31:48
+ransac 1.0 fps = 25fps, gpu based klt
+cars1 1
+recall 0.986 precision 0.638 FMeasure 0.774
+cars1 2
+recall 0.719 precision 0.698 FMeasure 0.708
+cars1 3
+recall 0.884 precision 0.688 FMeasure 0.774
+cars1 4
+recall 0.735 precision 0.626 FMeasure 0.676
+cars1 5
+recall 0.729 precision 0.646 FMeasure 0.685
+cars1 6
+recall 0.816 precision 0.571 FMeasure 0.672
+cars1 7
+recall 0.955 precision 0.638 FMeasure 0.765
+cars1 8
+recall 0.981 precision 0.671 FMeasure 0.797
+people 1
+recall 0.861 precision 0.453 FMeasure 0.594
+people 2
+recall 0.902 precision 0.693 FMeasure 0.784
+average 
+recall 0.848 precision 0.646 FMeasure 0.733
+
+-------------------------
+//relflow(1.0) refine + findHomoEqa FPS:30+
+31-Mar-2015 15:41:39
+cars1 1
+recall 0.989 precision 0.640 FMeasure 0.777
+cars1 2
+recall 0.569 precision 0.701 FMeasure 0.628
+cars1 3
+recall 0.890 precision 0.709 FMeasure 0.789
+cars1 4
+recall 0.748 precision 0.530 FMeasure 0.621
+cars1 5
+recall 0.735 precision 0.664 FMeasure 0.698
+cars1 6
+recall 0.939 precision 0.566 FMeasure 0.706
+cars1 7
+recall 0.973 precision 0.530 FMeasure 0.687
+cars1 8
+recall 0.983 precision 0.454 FMeasure 0.621
+people 1
+recall 0.875 precision 0.462 FMeasure 0.605
+people 2
+recall 0.911 precision 0.651 FMeasure 0.760
+average 
+recall 0.845 precision 0.562 FMeasure 0.675
+-------------------------
+//relflow(1.0) refine + findHomoDLT FPS:30+
+31-Mar-2015 15:43:56
+cars1 1
+recall 0.985 precision 0.597 FMeasure 0.743
+cars1 2
+recall 0.656 precision 0.345 FMeasure 0.452
+cars1 3
+recall 0.890 precision 0.660 FMeasure 0.758
+cars1 4
+recall 0.729 precision 0.470 FMeasure 0.572
+cars1 5
+recall 0.742 precision 0.492 FMeasure 0.592
+cars1 6
+recall 0.939 precision 0.566 FMeasure 0.706
+cars1 7
+recall 0.977 precision 0.266 FMeasure 0.418
+cars1 8
+recall 0.984 precision 0.414 FMeasure 0.583
+people 1
+recall 0.878 precision 0.441 FMeasure 0.587
+people 2
+recall 0.907 precision 0.579 FMeasure 0.707
+average 
+recall 0.851 precision 0.462 FMeasure 0.599
+-------------------------
+//relflow(1.0) refine + findHomoLMEDS FPS:28
+
+31-Mar-2015 15:46:47
+cars1 1
+recall 0.986 precision 0.656 FMeasure 0.788
+cars1 2
+recall 0.695 precision 0.713 FMeasure 0.704
+cars1 3
+recall 0.887 precision 0.707 FMeasure 0.787
+cars1 4
+recall 0.749 precision 0.615 FMeasure 0.676
+cars1 5
+recall 0.749 precision 0.668 FMeasure 0.706
+cars1 6
+recall 0.939 precision 0.566 FMeasure 0.706
+cars1 7
+recall 0.977 precision 0.590 FMeasure 0.736
+cars1 8
+recall 0.976 precision 0.631 FMeasure 0.766
+people 1
+recall 0.876 precision 0.460 FMeasure 0.603
+people 2
+recall 0.914 precision 0.700 FMeasure 0.792
+average 
+recall 0.859 precision 0.636 FMeasure 0.731
+-------------------------
+//relflow(0.5) refine + findHomoLMEDS FPS:28
+31-Mar-2015 15:49:16
+cars1 1
+recall 0.984 precision 0.662 FMeasure 0.792
+cars1 2
+recall 0.694 precision 0.714 FMeasure 0.704
+cars1 3
+recall 0.890 precision 0.705 FMeasure 0.786
+cars1 4
+recall 0.743 precision 0.622 FMeasure 0.677
+cars1 5
+recall 0.754 precision 0.663 FMeasure 0.706
+cars1 6
+recall 0.882 precision 0.565 FMeasure 0.689
+cars1 7
+recall 0.977 precision 0.590 FMeasure 0.736
+cars1 8
+recall 0.979 precision 0.633 FMeasure 0.769
+people 1
+recall 0.872 precision 0.458 FMeasure 0.601
+people 2
+recall 0.914 precision 0.696 FMeasure 0.790
+average 
+recall 0.855 precision 0.638 FMeasure 0.731
+-------------------------
+findHomoLMEDS FPS:28
+31-Mar-2015 15:51:00
+cars1 1
+recall 0.989 precision 0.663 FMeasure 0.794
+cars1 2
+recall 0.693 precision 0.703 FMeasure 0.698
+cars1 3
+recall 0.890 precision 0.709 FMeasure 0.789
+cars1 4
+recall 0.749 precision 0.621 FMeasure 0.679
+cars1 5
+recall 0.754 precision 0.669 FMeasure 0.709
+cars1 6
+recall 0.885 precision 0.561 FMeasure 0.686
+cars1 7
+recall 0.977 precision 0.586 FMeasure 0.732
+cars1 8
+recall 0.978 precision 0.615 FMeasure 0.755
+people 1
+recall 0.875 precision 0.460 FMeasure 0.603
+people 2
+recall 0.913 precision 0.709 FMeasure 0.798
+average 
+recall 0.857 precision 0.634 FMeasure 0.729
+
+-------------------------
+Ransac 0.1
+31-Mar-2015 16:22:09
+cars1 1
+recall 0.989 precision 0.666 FMeasure 0.796
+cars1 2
+recall 0.663 precision 0.702 FMeasure 0.682
+cars1 3
+recall 0.892 precision 0.706 FMeasure 0.788
+cars1 4
+recall 0.755 precision 0.606 FMeasure 0.673
+cars1 5
+recall 0.751 precision 0.666 FMeasure 0.706
+cars1 6
+recall 0.893 precision 0.558 FMeasure 0.687
+cars1 7
+recall 0.977 precision 0.590 FMeasure 0.736
+cars1 8
+recall 0.979 precision 0.618 FMeasure 0.758
+people 1
+recall 0.875 precision 0.460 FMeasure 0.603
+people 2
+recall 0.913 precision 0.702 FMeasure 0.794
+average 
+recall 0.856 precision 0.632 FMeasure 0.727
+-------------------------
+cpu klt,relflow 1.0 + findhomographyEqa 30fps
+31-Mar-2015 19:38:01
+cars1 1
+recall 0.986 precision 0.665 FMeasure 0.794
+cars1 2
+recall 0.683 precision 0.708 FMeasure 0.695
+cars1 3
+recall 0.898 precision 0.736 FMeasure 0.809
+cars1 4
+recall 0.758 precision 0.678 FMeasure 0.716
+cars1 5
+recall 0.742 precision 0.677 FMeasure 0.708
+cars1 6
+recall 0.926 precision 0.584 FMeasure 0.717
+cars1 7
+recall 0.974 precision 0.611 FMeasure 0.751
+cars1 8
+recall 0.978 precision 0.667 FMeasure 0.793
+people 1
+recall 0.879 precision 0.485 FMeasure 0.625
+people 2
+recall 0.905 precision 0.703 FMeasure 0.791
+average 
+recall 0.858 precision 0.662 FMeasure 0.747
+-------------------------
+cpu klt,relflow 1.0 + globalwarping 25fps
+31-Mar-2015 20:56:24
+cars1 1
+recall 0.987 precision 0.695 FMeasure 0.816
+cars1 2
+recall 0.672 precision 0.701 FMeasure 0.686
+cars1 3
+recall 0.898 precision 0.745 FMeasure 0.814
+cars1 4
+recall 0.762 precision 0.683 FMeasure 0.720
+cars1 5
+recall 0.743 precision 0.675 FMeasure 0.707
+cars1 6
+recall 0.917 precision 0.576 FMeasure 0.708
+cars1 7
+recall 0.972 precision 0.633 FMeasure 0.767
+cars1 8
+recall 0.976 precision 0.644 FMeasure 0.776
+people 1
+recall 0.883 precision 0.475 FMeasure 0.618
+people 2
+recall 0.907 precision 0.703 FMeasure 0.792
+average 
+recall 0.857 precision 0.662 FMeasure 0.747
+-------------------------
+cpu klt,relflow 1.0 + myasapwarping 17fps
+31-Mar-2015 21:02:34
+cars1 1
+recall 0.988 precision 0.692 FMeasure 0.814
+cars1 2
+recall 0.675 precision 0.700 FMeasure 0.687
+cars1 3
+recall 0.900 precision 0.732 FMeasure 0.808
+cars1 4
+recall 0.763 precision 0.680 FMeasure 0.719
+cars1 5
+recall 0.735 precision 0.673 FMeasure 0.703
+cars1 6
+recall 0.937 precision 0.566 FMeasure 0.706
+cars1 7
+recall 0.976 precision 0.627 FMeasure 0.763
+cars1 8
+recall 0.976 precision 0.654 FMeasure 0.783
+people 1
+recall 0.885 precision 0.474 FMeasure 0.617
+people 2
+recall 0.905 precision 0.699 FMeasure 0.789
+average 
+recall 0.858 precision 0.661 FMeasure 0.747
+-------------------------
+cpu klt,relflow 1.0 + myasapwarping 21fps
+31-Mar-2015 21:50:33
+cars1 1
+recall 0.986 precision 0.703 FMeasure 0.821
+cars1 2
+recall 0.686 precision 0.703 FMeasure 0.694
+cars1 3
+recall 0.900 precision 0.737 FMeasure 0.811
+cars1 4
+recall 0.755 precision 0.676 FMeasure 0.713
+cars1 5
+recall 0.748 precision 0.683 FMeasure 0.714
+cars1 6
+recall 0.929 precision 0.584 FMeasure 0.717
+cars1 7
+recall 0.978 precision 0.614 FMeasure 0.754
+cars1 8
+recall 0.980 precision 0.656 FMeasure 0.786
+people 1
+recall 0.876 precision 0.480 FMeasure 0.620
+people 2
+recall 0.905 precision 0.704 FMeasure 0.792
+average 
+recall 0.859 precision 0.665 FMeasure 0.750
+-------------------------
+cpu klt,relflow 1.0 + myasapwarping 21fps
+修改超像素distance函数 (1-alpha)*d_rgb/255 + alpha*d_xy/(2*radius);
+alpha = 0.9
+01-Apr-2015 08:12:35
+cars1 1
+recall 0.985 precision 0.657 FMeasure 0.788
+cars1 2
+recall 0.690 precision 0.711 FMeasure 0.700
+cars1 3
+recall 0.912 precision 0.662 FMeasure 0.767
+cars1 4
+recall 0.750 precision 0.662 FMeasure 0.703
+cars1 5
+recall 0.728 precision 0.667 FMeasure 0.696
+cars1 6
+recall 0.895 precision 0.538 FMeasure 0.672
+cars1 7
+recall 0.930 precision 0.613 FMeasure 0.739
+cars1 8
+recall 0.979 precision 0.632 FMeasure 0.768
+people 1
+recall 0.880 precision 0.466 FMeasure 0.610
+people 2
+recall 0.895 precision 0.707 FMeasure 0.790
+average 
+recall 0.852 precision 0.642 FMeasure 0.732
+-------------------------
+cpu klt,relflow 1.0 + myasapwarping 21fps
+修改超像素distance函数 (1-alpha)*d_rgb/255 + alpha*d_xy/(2*radius);
+alpha = 0.7
+01-Apr-2015 08:22:46
+cars1 1
+recall 0.982 precision 0.690 FMeasure 0.810
+cars1 2
+recall 0.694 precision 0.721 FMeasure 0.707
+cars1 3
+recall 0.906 precision 0.734 FMeasure 0.811
+cars1 4
+recall 0.757 precision 0.685 FMeasure 0.719
+cars1 5
+recall 0.746 precision 0.680 FMeasure 0.711
+cars1 6
+recall 0.886 precision 0.567 FMeasure 0.691
+cars1 7
+recall 0.964 precision 0.645 FMeasure 0.773
+cars1 8
+recall 0.969 precision 0.670 FMeasure 0.792
+people 1
+recall 0.860 precision 0.483 FMeasure 0.619
+people 2
+recall 0.895 precision 0.697 FMeasure 0.784
+average 
+recall 0.854 precision 0.669 FMeasure 0.750
+-------------------------
+cpu klt,relflow 1.0 + myasapwarping 21fps
+修改超像素distance函数 (1-alpha)*d_rgb/255 + alpha*d_xy/(2*radius);
+alpha = 0.7
+区域合并参数改为原参数的0.9倍
+01-Apr-2015 11:33:27
+cars1 1
+recall 0.984 precision 0.635 FMeasure 0.772
+cars1 2
+recall 0.702 precision 0.718 FMeasure 0.710
+cars1 3
+recall 0.918 precision 0.713 FMeasure 0.802
+cars1 4
+recall 0.766 precision 0.680 FMeasure 0.720
+cars1 5
+recall 0.749 precision 0.679 FMeasure 0.712
+cars1 6
+recall 0.948 precision 0.547 FMeasure 0.694
+cars1 7
+recall 0.974 precision 0.629 FMeasure 0.764
+cars1 8
+recall 0.977 precision 0.624 FMeasure 0.762
+people 1
+recall 0.879 precision 0.471 FMeasure 0.614
+people 2
+recall 0.896 precision 0.682 FMeasure 0.775
+average 
+recall 0.863 precision 0.645 FMeasure 0.738
+
+-------------------------
+07-Apr-2015 17:06:30
+QC Distance 5fps
+cars1 1
+recall 0.981 precision 0.685 FMeasure 0.807
+cars1 2
+recall 0.648 precision 0.742 FMeasure 0.692
+cars1 3
+recall 0.913 precision 0.731 FMeasure 0.812
+cars1 4
+recall 0.760 precision 0.695 FMeasure 0.726
+cars1 5
+recall 0.704 precision 0.671 FMeasure 0.687
+cars1 6
+recall 0.975 precision 0.536 FMeasure 0.692
+cars1 7
+recall 0.966 precision 0.641 FMeasure 0.770
+cars1 8
+recall 0.978 precision 0.676 FMeasure 0.799
+people 1
+recall 0.863 precision 0.503 FMeasure 0.636
+people 2
+recall 0.912 precision 0.689 FMeasure 0.785
+average 
+recall 0.851 precision 0.669 FMeasure 0.749
+vcar 
+recall 0.741 precision 0.639 FMeasure 0.686
+vperson 
+recall 0.554 precision 0.516 FMeasure 0.534
+average 
+recall 0.808 precision 0.650 FMeasure 0.720
+
+-------------------------
+threshold 1.0 superpixel 0.7 (1-alpha)*d_rgb/255 + alpha*d_xy/(2*radius);
+07-Apr-2015 19:50:08
+cars1 1
+recall 0.984 precision 0.675 FMeasure 0.801
+cars1 2
+recall 0.681 precision 0.725 FMeasure 0.703
+cars1 3
+recall 0.904 precision 0.750 FMeasure 0.820
+cars1 4
+recall 0.666 precision 0.682 FMeasure 0.674
+cars1 5
+recall 0.713 precision 0.710 FMeasure 0.711
+cars1 6
+recall 0.887 precision 0.601 FMeasure 0.717
+cars1 7
+recall 0.938 precision 0.663 FMeasure 0.777
+cars1 8
+recall 0.952 precision 0.675 FMeasure 0.790
+people 1
+recall 0.854 precision 0.489 FMeasure 0.622
+people 2
+recall 0.889 precision 0.726 FMeasure 0.799
+average 
+recall 0.825 precision 0.677 FMeasure 0.744
+vcar 
+recall 0.244 precision 0.625 FMeasure 0.351
+vperson 
+recall 0.318 precision 0.464 FMeasure 0.377
+average 
+recall 0.740 precision 0.659 FMeasure 0.697
+-------------------------
+threshold 1.0 superpixel 0.7 (1-alpha)*d_rgb/255 + alpha*d_xy/(2*radius);
+07-Apr-2015 19:57:04
+cars1 1
+recall 0.992 precision 0.612 FMeasure 0.757
+cars1 2
+recall 0.686 precision 0.725 FMeasure 0.705
+cars1 3
+recall 0.917 precision 0.708 FMeasure 0.799
+cars1 4
+recall 0.761 precision 0.679 FMeasure 0.718
+cars1 5
+recall 0.749 precision 0.674 FMeasure 0.710
+cars1 6
+recall 0.931 precision 0.590 FMeasure 0.722
+cars1 7
+recall 0.966 precision 0.629 FMeasure 0.762
+cars1 8
+recall 0.976 precision 0.639 FMeasure 0.772
+people 1
+recall 0.861 precision 0.470 FMeasure 0.608
+people 2
+recall 0.895 precision 0.698 FMeasure 0.785
+average 
+recall 0.860 precision 0.648 FMeasure 0.739
+vcar 
+recall 0.610 precision 0.584 FMeasure 0.597
+vperson 
+recall 0.603 precision 0.477 FMeasure 0.533
+average 
+recall 0.818 precision 0.624 FMeasure 0.708
+-------------------------
+07-Apr-2015 20:13:48
+cars1 1
+recall 0.983 precision 0.686 FMeasure 0.808
+cars1 2
+recall 0.681 precision 0.723 FMeasure 0.701
+cars1 3
+recall 0.897 precision 0.759 FMeasure 0.822
+cars1 4
+recall 0.614 precision 0.678 FMeasure 0.645
+cars1 5
+recall 0.724 precision 0.696 FMeasure 0.710
+cars1 6
+recall 0.879 precision 0.608 FMeasure 0.719
+cars1 7
+recall 0.948 precision 0.661 FMeasure 0.779
+cars1 8
+recall 0.973 precision 0.675 FMeasure 0.797
+people 1
+recall 0.857 precision 0.484 FMeasure 0.619
+people 2
+recall 0.889 precision 0.726 FMeasure 0.799
+average 
+recall 0.820 precision 0.677 FMeasure 0.742
+vcar 
+recall 0.330 precision 0.566 FMeasure 0.417
+vperson 
+recall 0.271 precision 0.474 FMeasure 0.345
+average 
+recall 0.732 precision 0.661 FMeasure 0.695
+-------------------------
+gpu klt
+07-Apr-2015 21:49:34
+cars1 1
+recall 0.986 precision 0.659 FMeasure 0.790
+cars1 2
+recall 0.692 precision 0.704 FMeasure 0.698
+cars1 3
+recall 0.893 precision 0.728 FMeasure 0.802
+cars1 4
+recall 0.644 precision 0.595 FMeasure 0.619
+cars1 5
+recall 0.723 precision 0.676 FMeasure 0.699
+cars1 6
+recall 0.852 precision 0.605 FMeasure 0.708
+cars1 7
+recall 0.950 precision 0.626 FMeasure 0.755
+cars1 8
+recall 0.952 precision 0.642 FMeasure 0.767
+people 1
+recall 0.855 precision 0.459 FMeasure 0.597
+people 2
+recall 0.902 precision 0.723 FMeasure 0.803
+average 
+recall 0.823 precision 0.643 FMeasure 0.722
+vcar 
+recall 0.304 precision 0.425 FMeasure 0.355
+vperson 
+recall 0.429 precision 0.432 FMeasure 0.431
+average 
+recall 0.755 precision 0.617 FMeasure 0.679
+-------------------------
+global warping relflow 1.0 >28fps
+07-Apr-2015 22:03:21
+cars1 1
+recall 0.985 precision 0.702 FMeasure 0.820
+cars1 2
+recall 0.675 precision 0.727 FMeasure 0.700
+cars1 3
+recall 0.902 precision 0.753 FMeasure 0.821
+cars1 4
+recall 0.613 precision 0.672 FMeasure 0.641
+cars1 5
+recall 0.714 precision 0.710 FMeasure 0.712
+cars1 6
+recall 0.844 precision 0.613 FMeasure 0.710
+cars1 7
+recall 0.939 precision 0.604 FMeasure 0.736
+cars1 8
+recall 0.949 precision 0.675 FMeasure 0.789
+people 1
+recall 0.856 precision 0.487 FMeasure 0.621
+people 2
+recall 0.892 precision 0.724 FMeasure 0.799
+average 
+recall 0.812 precision 0.678 FMeasure 0.739
+vcar 
+recall 0.268 precision 0.709 FMeasure 0.389
+vperson 
+recall 0.318 precision 0.494 FMeasure 0.387
+average 
+recall 0.730 precision 0.663 FMeasure 0.695
+-------------------------
+relflow + nblockwarping realtime
+KLT 500,0.05,10
+07-Apr-2015 22:20:39
+cars1 1
+recall 0.986 precision 0.674 FMeasure 0.801
+cars1 2
+recall 0.665 precision 0.724 FMeasure 0.693
+cars1 3
+recall 0.897 precision 0.755 FMeasure 0.820
+cars1 4
+recall 0.635 precision 0.679 FMeasure 0.656
+cars1 5
+recall 0.728 precision 0.690 FMeasure 0.709
+cars1 6
+recall 0.887 precision 0.606 FMeasure 0.720
+cars1 7
+recall 0.938 precision 0.574 FMeasure 0.713
+cars1 8
+recall 0.949 precision 0.671 FMeasure 0.786
+people 1
+recall 0.857 precision 0.484 FMeasure 0.619
+people 2
+recall 0.889 precision 0.726 FMeasure 0.799
+average 
+recall 0.819 precision 0.669 FMeasure 0.736
+vcar 
+recall 0.335 precision 0.610 FMeasure 0.433
+vperson 
+recall 0.322 precision 0.504 FMeasure 0.393
+average 
+recall 0.738 precision 0.655 FMeasure 0.694
+
+-------------------------
+relflow + blockwarping
+KLT 500,0.05,10
+07-Apr-2015 22:47:18
+cars1 1
+recall 0.983 precision 0.486 FMeasure 0.650
+cars1 2
+recall 0.623 precision 0.709 FMeasure 0.664
+cars1 3
+recall 0.918 precision 0.740 FMeasure 0.820
+cars1 4
+recall 0.654 precision 0.659 FMeasure 0.657
+cars1 5
+recall 0.728 precision 0.696 FMeasure 0.712
+cars1 6
+recall 0.875 precision 0.610 FMeasure 0.719
+cars1 7
+recall 0.940 precision 0.602 FMeasure 0.734
+cars1 8
+recall 0.951 precision 0.669 FMeasure 0.785
+people 1
+recall 0.850 precision 0.464 FMeasure 0.601
+people 2
+recall 0.892 precision 0.724 FMeasure 0.799
+average 
+recall 0.819 precision 0.628 FMeasure 0.711
+vcar 
+recall 0.297 precision 0.609 FMeasure 0.399
+vperson 
+recall 0.305 precision 0.475 FMeasure 0.371
+average 
+recall 0.735 precision 0.616 FMeasure 0.670
+-------------------------
+asap warping + relflow1.0
+07-Apr-2015 22:54:24
+cars1 1
+recall 0.986 precision 0.680 FMeasure 0.805
+cars1 2
+recall 0.676 precision 0.722 FMeasure 0.698
+cars1 3
+recall 0.898 precision 0.754 FMeasure 0.820
+cars1 4
+recall 0.638 precision 0.683 FMeasure 0.660
+cars1 5
+recall 0.720 precision 0.697 FMeasure 0.708
+cars1 6
+recall 0.880 precision 0.600 FMeasure 0.713
+cars1 7
+recall 0.945 precision 0.668 FMeasure 0.782
+cars1 8
+recall 0.931 precision 0.671 FMeasure 0.780
+people 1
+recall 0.857 precision 0.484 FMeasure 0.619
+people 2
+recall 0.892 precision 0.724 FMeasure 0.799
+average 
+recall 0.817 precision 0.676 FMeasure 0.739
+vcar 
+recall 0.271 precision 0.568 FMeasure 0.367
+vperson 
+recall 0.325 precision 0.511 FMeasure 0.397
+average 
+recall 0.735 precision 0.662 FMeasure 0.696
+
+-------------------------
+relflow + nblockwarping realtime
+KLT 500,0.05,10
+//temporal roi 从2开始
+09-Apr-2015 15:31:05
+cars1 1
+recall 0.980 precision 0.648 FMeasure 0.780
+cars1 2
+recall 0.718 precision 0.701 FMeasure 0.710
+cars1 3
+recall 0.860 precision 0.742 FMeasure 0.797
+cars1 4
+recall 0.662 precision 0.692 FMeasure 0.677
+cars1 5
+recall 0.733 precision 0.685 FMeasure 0.708
+cars1 6
+recall 0.709 precision 0.635 FMeasure 0.670
+cars1 7
+recall 0.956 precision 0.618 FMeasure 0.750
+cars1 8
+recall 0.962 precision 0.684 FMeasure 0.800
+people 1
+recall 0.861 precision 0.486 FMeasure 0.621
+people 2
+recall 0.883 precision 0.730 FMeasure 0.799
+average 
+recall 0.834 precision 0.673 FMeasure 0.745
+vcar 
+recall 0.308 precision 0.574 FMeasure 0.401
+vperson 
+recall 0.340 precision 0.510 FMeasure 0.408
+average 
+recall 0.772 precision 0.663 FMeasure 0.713
+-------------------------
+09-Apr-2015 16:22:35
+Method Name:rtbs
+cars1 1
+recall 0.980 precision 0.648 FMeasure 0.780
+cars1 2
+recall 0.718 precision 0.701 FMeasure 0.710
+cars1 3
+recall 0.860 precision 0.742 FMeasure 0.797
+cars1 4
+recall 0.662 precision 0.692 FMeasure 0.677
+cars1 5
+recall 0.733 precision 0.685 FMeasure 0.708
+cars1 6
+recall 0.709 precision 0.635 FMeasure 0.670
+cars1 7
+recall 0.956 precision 0.618 FMeasure 0.750
+cars1 8
+recall 0.962 precision 0.684 FMeasure 0.800
+people 1
+recall 0.861 precision 0.486 FMeasure 0.621
+people 2
+recall 0.883 precision 0.730 FMeasure 0.799
+average 
+recall 0.834 precision 0.673 FMeasure 0.745
+vcar 
+recall 0.308 precision 0.574 FMeasure 0.401
+vperson 
+recall 0.340 precision 0.510 FMeasure 0.408
+average 
+recall 0.772 precision 0.663 FMeasure 0.713
+-------------------------
+09-Apr-2015 16:30:34
+Method Name:mcd
+cars 1
+recall 0.336 precision 0.640 FMeasure 0.441
+cars 2
+recall 0.130 precision 0.399 FMeasure 0.196
+cars 3
+recall 0.210 precision 0.641 FMeasure 0.316
+cars 4
+recall 0.271 precision 0.676 FMeasure 0.387
+cars 5
+recall 0.152 precision 0.724 FMeasure 0.251
+cars 6
+recall 0.190 precision 0.726 FMeasure 0.302
+cars 7
+recall 0.287 precision 0.657 FMeasure 0.399
+cars 8
+recall 0.447 precision 0.653 FMeasure 0.531
+people 1
+recall 0.497 precision 0.887 FMeasure 0.637
+people 2
+recall 0.602 precision 0.834 FMeasure 0.699
+average 
+recall 0.300 precision 0.664 FMeasure 0.414

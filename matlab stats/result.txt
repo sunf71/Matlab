@@ -1,0 +1,4 @@
+moseg 1
+recall 0.988 precision 0.539 FMeasure 0.698
+moseg 2
+recall 0.938 precision 0.682 FMeasure 0.790
